@@ -1,0 +1,7 @@
+{
+  "name": "gulp02",
+  "version": "1.0",
+  "dependencies": {
+    "gulp": "^4.0.2"
+  }
+}

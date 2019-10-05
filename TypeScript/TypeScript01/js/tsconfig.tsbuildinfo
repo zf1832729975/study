@@ -1,0 +1,52 @@
+{
+  "program": {
+    "fileInfos": {
+      "c:/users/admin/appdata/roaming/npm/node_modules/typescript/lib/lib.d.ts": {
+        "version": "49ff9798f592c8b7e628fd881401e68810c1b3589ecd7a41b32b3c287374cde0",
+        "signature": "49ff9798f592c8b7e628fd881401e68810c1b3589ecd7a41b32b3c287374cde0"
+      },
+      "c:/users/admin/appdata/roaming/npm/node_modules/typescript/lib/lib.es5.d.ts": {
+        "version": "ff5688d6b2fcfef06842a395d7ff4d5730d45b724d4c48913118c889829052a1",
+        "signature": "ff5688d6b2fcfef06842a395d7ff4d5730d45b724d4c48913118c889829052a1"
+      },
+      "c:/users/admin/appdata/roaming/npm/node_modules/typescript/lib/lib.dom.d.ts": {
+        "version": "2d53f3741e5a4f78a90f623387d71a1cc809bb258f10cdaec034b67cbf71022f",
+        "signature": "2d53f3741e5a4f78a90f623387d71a1cc809bb258f10cdaec034b67cbf71022f"
+      },
+      "c:/users/admin/appdata/roaming/npm/node_modules/typescript/lib/lib.webworker.importscripts.d.ts": {
+        "version": "fe4e59403e34c7ff747abe4ff6abbc7718229556d7c1a5b93473fb53156c913b",
+        "signature": "fe4e59403e34c7ff747abe4ff6abbc7718229556d7c1a5b93473fb53156c913b"
+      },
+      "c:/users/admin/appdata/roaming/npm/node_modules/typescript/lib/lib.scripthost.d.ts": {
+        "version": "b9faa17292f17d2ad75e34fac77dd63a6403af1dba02d39cd0cbb9ffdf3de8b9",
+        "signature": "b9faa17292f17d2ad75e34fac77dd63a6403af1dba02d39cd0cbb9ffdf3de8b9"
+      },
+      "../ts.ts": {
+        "version": "9ea21b4e29b8f546b4707a1e5c838b923cac1a6a16ba650aff64cc491e55b452",
+        "signature": "5c62d8e98515bc20879aeeca9561e8a8ff7d35eeab8921e8a032347df0f29d29"
+      }
+    },
+    "options": {
+      "target": 1,
+      "module": 1,
+      "outDir": "./",
+      "composite": true,
+      "strict": true,
+      "esModuleInterop": true,
+      "project": "../tsconfig.json",
+      "watch": true,
+      "configFilePath": "../tsconfig.json"
+    },
+    "referencedMap": {},
+    "exportedModulesMap": {},
+    "semanticDiagnosticsPerFile": [
+      "c:/users/admin/appdata/roaming/npm/node_modules/typescript/lib/lib.d.ts",
+      "c:/users/admin/appdata/roaming/npm/node_modules/typescript/lib/lib.es5.d.ts",
+      "c:/users/admin/appdata/roaming/npm/node_modules/typescript/lib/lib.dom.d.ts",
+      "c:/users/admin/appdata/roaming/npm/node_modules/typescript/lib/lib.webworker.importscripts.d.ts",
+      "c:/users/admin/appdata/roaming/npm/node_modules/typescript/lib/lib.scripthost.d.ts",
+      "../ts.ts"
+    ]
+  },
+  "version": "3.6.2"
+}

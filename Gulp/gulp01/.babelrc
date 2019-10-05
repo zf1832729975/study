@@ -1,0 +1,4 @@
+{
+  "presets": ["@babel/env"]
+  // "presets": ["env", "es2015"]
+}

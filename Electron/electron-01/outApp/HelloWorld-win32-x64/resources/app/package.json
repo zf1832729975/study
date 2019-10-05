@@ -1,0 +1,21 @@
+{
+  "name": "electron-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "electron .",
+    "start": "electron .",
+    "packager-i": "electron-packager . HelloWorld --win --out ./package01 --arch=x64 --app-version=0.0.1 --electron-version=1.0.0 --ignore=node_modules",
+    "packager": "electron-packager ./ HelloWorld --win --out ./outApp --arch=x64 --app-version=0.0.1 --electron-version=1.0.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "^2.0.4",
+    "electron-packager": "^12.1.0"
+  }
+}
